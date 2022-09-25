@@ -2,9 +2,6 @@
 Just a simple repo for public collaboration
 
 ### Links
-* [CEV Adjustment](oas/CEVAdjust.html)
-* [Full path to this page](https://mrileysamc.github.io/modelingstuff/)[^1]
+* Example of adjusting shock profile based on CEV parameter: [oas/CEVAdjust.html](oas/CEVAdjust.html)
+* Full path to this page: <https://mrileysamc.github.io/modelingstuff/>
 
-
-
-[^1]: <https://mrileysamc.github.io/modelingstuff/>
